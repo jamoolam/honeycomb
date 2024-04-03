@@ -1,0 +1,12 @@
+body {
+    background-color: khaki;
+}
+.btn {
+    background-color:rgba(142, 30, 30, 0.653);
+    outline: none;
+    border: 2px solid black;
+}
+.titulo {
+    color: rgba(142, 30, 30, 0.653);
+    text-decoration: solid;
+}
